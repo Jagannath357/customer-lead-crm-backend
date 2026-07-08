@@ -18,7 +18,7 @@ public class CorsConfig {
         config.setAllowCredentials(true);
 
         config.setAllowedOriginPatterns(Arrays.asList(
-                "https://edumanagesys.netlify.app/",
+                "https://customer-lead-crm.netlify.app/",
                 "http://localhost:4200"
         ));
 
